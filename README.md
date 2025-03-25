@@ -41,14 +41,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=izabellygutierres&layout=compact&theme=radical" />
 </p>
 
-### 📈 Gráficos do GitHub
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=izabellygutierres&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=izabellygutierres&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=izabellygutierres&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=izabellygutierres&theme=radical&utcOffset=-3" />
-</p>
-
 ---
 
 ## 🌎 Onde me encontrar?

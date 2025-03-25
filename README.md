@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou a Izabelly Gutierres 👋</h1>
  
  <p align="center">
-   <img src="[https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZ1bWFkcmd6cGhsdnM3bmU0ZGN3cTMzeXllejUzNjc1MWg1cjEyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif)" width="300px">
+   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnZ1bWFkcmd6cGhsdnM3bmU0ZGN3cTMzeXllejUzNjc1MWg1cjEyZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif" width="300px">
  </p>
  
  ## 🚀 Sobre mim
